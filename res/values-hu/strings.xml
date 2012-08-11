@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="compass_title">Iránytű kalibrálás</string>
+	<string name="app_name">Iránytű kalibráció</string>
+	<string name="compass_calibrate">Kalibrálás</string>
+        <string name="compcalibration">Kalibrálás</string>
+        <string name="compcalibrationdialog">Az iránytű kalibrálása folyamatban, kérem, helyezzen el egy vízszintes, lapos felületen, és nyomjon egy OK-t!</string>
+</resources>
+
